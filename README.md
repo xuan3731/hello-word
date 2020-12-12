@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi humans!
+
+Hubot here,I just test.
